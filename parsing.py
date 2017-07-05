@@ -56,7 +56,7 @@ def parse_to_expt(exp):
     if not exp:
         return 0
 
-    if exp == 'x':
+    if exp in ['x', 'e', 'pi']:
         return exp
 
     for level in precedence_levels:
