@@ -9,4 +9,4 @@ f(x) = sin(2*x)
 Differentiating...
 f'(x) = 2.0*(cos(2.0*x))
 ```
-Enter the function, f(x) at the prompt and hit enter.
+Enter the function, f(x), at the prompt and hit enter.
